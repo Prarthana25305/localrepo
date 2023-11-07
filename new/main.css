@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(9, 230, 119, 0.678);
+}
+
+h2{
+    color:red;
+}
+
+#box{
+    background-color:cornflowerblue;
+}
+p{
+    text-align: left;
+    background-color:chartreuse;
+}
